@@ -1,0 +1,4 @@
+2018-12-17 15-59-25
+desc:
+    mybatis传统的Dao开发
+    缺点daoimpl代码大量重复，解决办法，mapper动态代理开发。

@@ -1,0 +1,11 @@
+2018-12-17 17-44-31
+mybatis动态代理开发
+    4原则：
+        sql和接口在同一个类路径下[1]
+        a b(c);[234]
+
+mapper文件夹相当于传统开发的dao文件加
+其他的和dao相同
+
+org.apache.ibatis.binding.BindingException:
+    Type interface com.xb.mybatis.mapper.UserMapper is not known to the MapperRegistry.
